@@ -1,0 +1,127 @@
+item.key.name=Dungeon Key
+item.magicchalk.name=Magical Chalk
+item.magicchalk.desc=Found in Ancient Temples
+chalk.operatoronly=Only Operators are allowed to create portals!
+
+item.amuletSpeed.name=Amulet of the Wind
+item.amuletHaste.name=Amulet of the Earth
+item.amuletStrong.name=Amulet of Strength
+item.amuletJump.name=Amulet of Leaping
+item.amuletRegen.name=Amulet of Healing
+item.amuletResist.name=Ironskin Amulet
+item.amuletFResist.name=Amulet of the Blaze
+item.amuletBreath.name=Amulet of the Ocean
+item.amuletNVision.name=Amulet of the Night
+
+item.cactusAmulet.name=Amulet of Thorns
+
+item.beltArrow.name=Arrow Belt
+item.flyBelt.name=Belt of Flight
+item.enderBelt.name=Ender Belt
+item.xpRing.name=Ring O' Experience
+item.advxpRing.name=Advanced Ring O' Experience
+
+item.basicBelt.name=Basic Belt Base
+item.advancedBelt.name=Advanced Belt Base
+
+item.rider.name=Rider - Ride Mode [WIP]
+item.stacker.name=Rider - Stack Mode [WIP]
+
+item.trapRemover.name=Trap Nullification Wand
+
+tile.runicBrick.brickPlain.name=Dungeon Bricks (Unbreakable)
+tile.runicBrick.brickMossy.name=Mossy Dungeon Bricks (Unbreakable)
+tile.runicBrick.brickCracked.name=Cracked Dungeon Bricks (Unbreakable)
+tile.runicBrick.brickRunePlain.name=Runic Dungeon Bricks (Unbreakable)
+tile.runicBrick.brickRuneMossy.name=Mossy Runic Dungeon Bricks (Unbreakable)
+tile.runicBrick.brickRuneCracked.name=Cracked Runic Dungeon Bricks (Unbreakable)
+
+tile.survivalRunicBrick.brickPlain.name=Dungeon Bricks
+tile.survivalRunicBrick.brickMossy.name=Mossy Dungeon Bricks
+tile.survivalRunicBrick.brickCracked.name=Cracked Dungeon Bricks
+tile.survivalRunicBrick.brickRunePlain.name=Runic Dungeon Bricks
+tile.survivalRunicBrick.brickRuneMossy.name=Mossy Runic Dungeon Bricks
+tile.survivalRunicBrick.brickRuneCracked.name=Cracked Runic Dungeon Bricks
+tile.survivalRunicLamp.name=Runic Lamp
+tile.survivalRunicPillar.name=Runic Pillar
+
+tile.runicLamp.name=Runic Lamp (Unbreakable)
+tile.runicKeyhole.name=Dungeon Keyhole
+tile.runicCircle.name=Mysterious Runes
+tile.runicCircleSmall.name=Mysterious Runes
+tile.runicCircleLarge.name=Mysterious Runes
+tile.runicPortal.name=Runic Dungeons Portal
+tile.runicPillar.name=Runic Pillar (Unbreakable)
+tile.survivalrunicPillar.name=Runic Pillar
+tile.spikeTrap.name=Dungeon Bricks (Unbreakable)
+tile.runicdeath.name=Solid Death
+tile.runicGlass.name=Runic Glass
+tile.runicObsidianGlass.name=Runic Glass (Obsidian Infused)
+
+tile.obsidianRunicBrick.brickPlain.name=Dungeon Bricks (Obsidian Infused)
+tile.obsidianRunicBrick.brickMossy.name=Mossy Dungeon Bricks (Obsidian Infused)
+tile.obsidianRunicBrick.brickCracked.name=Cracked Dungeon Bricks (Obsidian Infused)
+tile.obsidianRunicBrick.brickRunePlain.name=Runic Dungeon Bricks (Obsidian Infused)
+tile.obsidianRunicBrick.brickRuneMossy.name=Mossy Runic Dungeon Bricks (Obsidian Infused)
+tile.obsidianRunicBrick.brickRuneCracked.name=Cracked Runic Dungeon Bricks (Obsidian Infused)
+
+achievement.createPortal=Off We Go!
+achievement.createPortal.desc=Create a Runic Dungeons portal
+
+achievement.useKey=The Key to Progress!
+achievement.useKey.desc=Use a Dungeon Key
+
+achievement.defeatGuardian=Guardian of the Depths
+achievement.defeatGuardian.desc=Defeat a Dungeon Guardian
+
+achievement.demonicDungeons=Fire and Brimstone
+achievement.demonicDungeons.desc=Take a trip into the Demonic Dungeons
+
+runicdungeons.unableToOpen=You cannot pass this way.
+
+itemGroup.runicdungeons=Runic Dungeons
+
+amulet.descSpeed=
+amulet.descHaste=Miners, not Minors
+amulet.descStrong=Muscle Man
+amulet.descJump=Do the bunny hop!
+amulet.descRegen=Slow, but effective
+amulet.descResist=Warning, skin is not actually iron, you are not metal.
+amulet.descFResist=This player's on fire!
+amulet.descBreath=Who needs gills?
+amulet.descNVision=Go-Go-Gadget Night Vision!
+
+entity.Guardian.name=Dungeon Guardian
+
+tile.demonicBrick.brickPlain.name=Demonic Bricks (Unbreakable)
+tile.demonicBrick.brickRunic.name=Runic Demonic Bricks (Unbreakable)
+tile.survivalDemonicBrick.brickPlain.name=Demonic Bricks
+tile.survivalDemonicBrick.brickRunic.name=Runic Demonic Bricks
+
+tile.chaoticSand.name=Chaotic Sands
+tile.witherRunicGlass.name=Runic Glass (WitherBoss-Proof)
+tile.compressedObsidian.name=Compressed Obsidian
+item.magicstaff.name=Magical Staff
+tile.runeSpawner.name=Guardian Spawner
+
+tile.witherRunicBrick.witherBrickPlain.name=Dungeon Bricks (WitherBoss-Proof)
+tile.witherRunicBrick.witherBrickMossy.name=Mossy Dungeon Bricks (WitherBoss-Proof)
+tile.witherRunicBrick.witherBrickCracked.name=Cracked Dungeon Bricks (WitherBoss-Proof)
+tile.witherRunicBrick.witherBrickRunePlain.name=Runic Dungeon Bricks (WitherBoss-Proof)
+tile.witherRunicBrick.witherBrickRuneMossy.name=Mossy Runic Dungeon Bricks (WitherBoss-Proof)
+tile.witherBrick.witherBrickRuneCracked.name=Cracked Runic Dungeon Bricks (WitherBoss-Proof)
+
+tile.ancientBookshelf.name=Ancient Bookshelf
+tile.rottingSlab.name=Rotting Slab
+
+item.runicSteel.name=Runic Steel Ingot
+item.runicSteelSword.name=Runic Steel Sword
+item.runicSteelPickaxe.name=Runic Steel Pickaxe
+item.runicSteelAxe.name=Runic Steel Hatchet
+item.runicSteelShovel.name=Runic Steel Spade
+item.runicSteelHoe.name=Runic Steel Hoe
+
+item.airCrystal.name=Air Crystal
+item.earthCrystal.name=Earth Crystal
+item.fireCrystal.name=Fire Crystal
+item.waterCrystal.name=Water Crystal
