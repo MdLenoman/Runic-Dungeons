@@ -1,7 +1,7 @@
-#
 item.key.name=地牢钥匙
 item.magicchalk.name=神奇粉笔
-
+item.magicchalk.desc=Found in Ancient Temples
+chalk.operatoronly=Only Operators are allowed to create portals!
 
 item.amuletSpeed.name=风-护身符
 item.amuletHaste.name=大地-护身符
@@ -18,23 +18,8 @@ item.cactusAmulet.name=荆棘-护身符
 item.beltArrow.name=箭环带
 item.flyBelt.name=飞行环带
 item.enderBelt.name=末影环带
-
-item.dyeBeltwhite.name=染色环带(白)
-item.dyeBeltorange.name=染色环带(橙)
-item.dyeBeltmagenta.name=染色环带(品红)
-item.dyeBeltlightblue.name=染色环带(浅蓝)
-item.dyeBeltyellow.name=染色环带(黄)
-item.dyeBeltlime.name=染色环带(浅绿)
-item.dyeBeltpink.name=染色环带(粉红)
-item.dyeBeltgrey.name=染色环带(灰)
-item.dyeBeltlightgrey.name=染色环带(浅灰)
-item.dyeBeltcyan.name=染色环带(青)
-item.dyeBeltpurple.name=染色环带(紫)
-item.dyeBeltblue.name=染色环带(蓝)
-item.dyeBeltbrown.name=染色环带(棕)
-item.dyeBeltgreen.name=染色环带(绿色)
-item.dyeBeltred.name=染色环带(红)
-item.dyeBeltblack.name=染色环带(黑)
+item.xpRing.name=Ring O' Experience
+item.advxpRing.name=Advanced Ring O' Experience
 
 item.basicBelt.name=基础环带
 item.advancedBelt.name=高级环带
@@ -63,6 +48,8 @@ tile.survivalRunicPillar.name=符文支柱
 tile.runiclamp.name=灯柱(坚不可摧)
 tile.keystone.name=地牢钥匙孔
 tile.runicCircle.name=神秘的符文
+tile.runicCircleSmall.name=Mysterious Runes
+tile.runicCircleLarge.name=Mysterious Runes
 tile.runicPortal.name=符文地牢入口
 tile.runicPillar.name=符文支柱(坚不可摧)
 tile.survivalrunicPillar.name=符文支柱
@@ -90,8 +77,9 @@ achievement.defeatGuardian.desc=Defeat a Dungeon Guardian
 achievement.demonicDungeons=Fire and Brimstone
 achievement.demonicDungeons.desc=Take a trip into the Demonic Dungeons
 
-itemGroup.runicdungeons=符文地牢
+runicdungeons.unableToOpen=You cannot pass this way.
 
+itemGroup.runicdungeons=符文地牢
 
 amulet.descSpeed=奔跑像风一样快!
 amulet.descHaste=没有镐的矿工
@@ -122,3 +110,18 @@ tile.witherBrick.witherBrickCracked.name=Cracked Dungeon Bricks (WitherBoss-Proo
 tile.witherBrick.witherBrickRunePlain.name=Runic Dungeon Bricks (WitherBoss-Proof)
 tile.witherBrick.witherBrickRuneMossy.name=Mossy Runic Dungeon Bricks (WitherBoss-Proof)
 tile.witherBrick.witherBrickRuneCracked.name=Cracked Runic Dungeon Bricks (WitherBoss-Proof)
+
+tile.ancientBookshelf.name=Ancient Bookshelf
+tile.rottingSlab.name=Rotting Slab
+
+item.runicSteel.name=Runic Steel Ingot
+item.runicSteelSword.name=Runic Steel Sword
+item.runicSteelPickaxe.name=Runic Steel Pickaxe
+item.runicSteelAxe.name=Runic Steel Hatchet
+item.runicSteelShovel.name=Runic Steel Spade
+item.runicSteelHoe.name=Runic Steel Hoe
+
+item.airCrystal.name=Air Crystal
+item.earthCrystal.name=Earth Crystal
+item.fireCrystal.name=Fire Crystal
+item.waterCrystal.name=Water Crystal
