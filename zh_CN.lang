@@ -1,0 +1,124 @@
+#
+item.key.name=地牢钥匙
+item.magicchalk.name=神奇粉笔
+
+
+item.amuletSpeed.name=风-护身符
+item.amuletHaste.name=大地-护身符
+item.amuletStrong.name=力量-护身符
+item.amuletJump.name=跳跃-护身符
+item.amuletRegen.name=愈合-护身符
+item.amuletResist.name=强力护甲-护身符
+item.amuletFResist.name=火焰-护身符
+item.amuletBreath.name=海洋-护身符
+item.amuletNVision.name=黑夜-护身符
+
+item.cactusAmulet.name=荆棘-护身符
+
+item.beltArrow.name=箭环带
+item.flyBelt.name=飞行环带
+item.enderBelt.name=末影环带
+
+item.dyeBeltwhite.name=染色环带(白)
+item.dyeBeltorange.name=染色环带(橙)
+item.dyeBeltmagenta.name=染色环带(品红)
+item.dyeBeltlightblue.name=染色环带(浅蓝)
+item.dyeBeltyellow.name=染色环带(黄)
+item.dyeBeltlime.name=染色环带(浅绿)
+item.dyeBeltpink.name=染色环带(粉红)
+item.dyeBeltgrey.name=染色环带(灰)
+item.dyeBeltlightgrey.name=染色环带(浅灰)
+item.dyeBeltcyan.name=染色环带(青)
+item.dyeBeltpurple.name=染色环带(紫)
+item.dyeBeltblue.name=染色环带(蓝)
+item.dyeBeltbrown.name=染色环带(棕)
+item.dyeBeltgreen.name=染色环带(绿色)
+item.dyeBeltred.name=染色环带(红)
+item.dyeBeltblack.name=染色环带(黑)
+
+item.basicBelt.name=基础环带
+item.advancedBelt.name=高级环带
+
+item.rider.name=Rider - Ride Mode [WIP]
+item.stacker.name=Rider - Stack Mode [WIP]
+
+item.trapRemover.name=陷阱消除法杖
+
+tile.brick.brickPlain.name=地牢石砖(坚不可摧)
+tile.brick.brickMossy.name=地牢苔石砖(坚不可摧)
+tile.brick.brickCracked.name=地牢裂石砖(坚不可摧)
+tile.brick.brickRunePlain.name=符文地牢石砖(坚不可摧)
+tile.brick.brickRuneMossy.name=符文地牢苔石砖(坚不可摧)
+tile.brick.brickRuneCracked.name=符文地牢裂石砖(坚不可摧)
+
+tile.survivalBrick.brickPlain.name=地牢石砖
+tile.survivalBrick.brickMossy.name=地牢苔石砖
+tile.survivalBrick.brickCracked.name=地牢裂石砖
+tile.survivalBrick.brickRunePlain.name=符文地牢石砖
+tile.survivalBrick.brickRuneMossy.name=符文地牢苔石砖
+tile.survivalBrick.brickRuneCracked.name=符文地牢裂石砖
+tile.survivalruniclamp.name=灯柱
+tile.survivalRunicPillar.name=符文支柱
+
+tile.runiclamp.name=灯柱(坚不可摧)
+tile.keystone.name=地牢钥匙孔
+tile.runicCircle.name=神秘的符文
+tile.runicPortal.name=符文地牢入口
+tile.runicPillar.name=符文支柱(坚不可摧)
+tile.survivalrunicPillar.name=符文支柱
+tile.spikeTrap.name=地牢尖刺陷阱(坚不可摧)
+tile.runicdeath.name=Solid Death
+tile.runicGlass.name=符文玻璃
+tile.runicObsidianGlass.name=符文玻璃(黑曜石制)
+
+tile.obsidianRunicBrick.brickPlain.name=地牢石砖(黑曜石制)
+tile.obsidianRunicBrick.brickMossy.name=地牢苔石砖(黑曜石制)
+tile.obsidianRunicBrick.brickCracked.name=地牢裂石砖(黑曜石制)
+tile.obsidianRunicBrick.brickRunePlain.name=符文地牢石砖(黑曜石制)
+tile.obsidianRunicBrick.brickRuneMossy.name=符文地牢苔石砖(黑曜石制)
+tile.obsidianRunicBrick.brickRuneCracked.name=符文地牢裂石砖(黑曜石制)
+
+achievement.createPortal=我们走!
+achievement.createPortal.desc=创建符文地牢入口!
+
+achievement.useKey=开启大门前进!
+achievement.useKey.desc=使用地牢钥匙
+
+achievement.defeatGuardian=深处的守护者！
+achievement.defeatGuardian.desc=Defeat a Dungeon Guardian
+
+achievement.demonicDungeons=Fire and Brimstone
+achievement.demonicDungeons.desc=Take a trip into the Demonic Dungeons
+
+itemGroup.runicdungeons=符文地牢
+
+
+amulet.descSpeed=奔跑像风一样快!
+amulet.descHaste=没有镐的矿工
+amulet.descStrong=我感觉到了强大的力量!
+amulet.descJump=做兔子跳!
+amulet.descRegen=愈合比较缓慢,但是很有效
+amulet.descResist=瞧我的厚实的护甲!
+amulet.descFResist=这个玩家正在着火!
+amulet.descBreath=谁需要鳃?
+graamulet.descNVision=Go-Go-Go!夜视!
+
+entity.Guardian.name=地牢守护者
+
+tile.demonicBrick.brickPlain.name=恶魔石砖(坚不可摧)
+tile.demonicBrick.brickRunic.name=符文恶魔石砖(坚不可摧）
+tile.survivalDemonicBrick.brickPlain.name=恶魔石砖
+tile.survivalDemonicBrick.brickRunic.name=符文恶魔石砖
+
+tile.chaoticSand.name=混沌沙子
+tile.witherGlass.name=符文玻璃(WitherBoss-Proof)
+tile.compressedObsidian.name=Compressed Obsidian
+item.magicstaff.name=Magical Staff
+tile.runeSpawner.name=Guardian Spawner
+
+tile.witherBrick.witherBrickPlain.name=Dungeon Bricks (WitherBoss-Proof)
+tile.witherBrick.witherBrickMossy.name=Mossy Dungeon Bricks (WitherBoss-Proof)
+tile.witherBrick.witherBrickCracked.name=Cracked Dungeon Bricks (WitherBoss-Proof)
+tile.witherBrick.witherBrickRunePlain.name=Runic Dungeon Bricks (WitherBoss-Proof)
+tile.witherBrick.witherBrickRuneMossy.name=Mossy Runic Dungeon Bricks (WitherBoss-Proof)
+tile.witherBrick.witherBrickRuneCracked.name=Cracked Runic Dungeon Bricks (WitherBoss-Proof)
