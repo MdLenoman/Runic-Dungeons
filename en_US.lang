@@ -109,7 +109,7 @@ tile.witherRunicBrick.witherBrickMossy.name=Mossy Dungeon Bricks (WitherBoss-Pro
 tile.witherRunicBrick.witherBrickCracked.name=Cracked Dungeon Bricks (WitherBoss-Proof)
 tile.witherRunicBrick.witherBrickRunePlain.name=Runic Dungeon Bricks (WitherBoss-Proof)
 tile.witherRunicBrick.witherBrickRuneMossy.name=Mossy Runic Dungeon Bricks (WitherBoss-Proof)
-tile.witherBrick.witherBrickRuneCracked.name=Cracked Runic Dungeon Bricks (WitherBoss-Proof)
+tile.witherRunicBrick.witherBrickRuneCracked.name=Cracked Runic Dungeon Bricks (WitherBoss-Proof)
 
 tile.ancientBookshelf.name=Ancient Bookshelf
 tile.rottingSlab.name=Rotting Slab
