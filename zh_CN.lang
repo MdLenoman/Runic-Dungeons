@@ -1,7 +1,7 @@
 item.key.name=地牢钥匙
 item.magicchalk.name=神奇粉笔
-item.magicchalk.desc=Found in Ancient Temples
-chalk.operatoronly=Only Operators are allowed to create portals!
+item.magicchalk.desc=远古神庙中获取
+chalk.operatoronly=唯有使用者能够开启传送门!
 
 item.amuletSpeed.name=风-护身符
 item.amuletHaste.name=大地-护身符
@@ -18,8 +18,8 @@ item.cactusAmulet.name=荆棘-护身符
 item.beltArrow.name=箭环带
 item.flyBelt.name=飞行环带
 item.enderBelt.name=末影环带
-item.xpRing.name=Ring O' Experience
-item.advxpRing.name=Advanced Ring O' Experience
+item.xpRing.name=经验指环
+item.advxpRing.name=高级经验指环
 
 item.basicBelt.name=基础环带
 item.advancedBelt.name=高级环带
@@ -29,27 +29,27 @@ item.stacker.name=Rider - Stack Mode [WIP]
 
 item.trapRemover.name=陷阱消除法杖
 
-tile.brick.brickPlain.name=地牢石砖(坚不可摧)
-tile.brick.brickMossy.name=地牢苔石砖(坚不可摧)
-tile.brick.brickCracked.name=地牢裂石砖(坚不可摧)
-tile.brick.brickRunePlain.name=符文地牢石砖(坚不可摧)
-tile.brick.brickRuneMossy.name=符文地牢苔石砖(坚不可摧)
-tile.brick.brickRuneCracked.name=符文地牢裂石砖(坚不可摧)
+tile.runicBrick.brickPlain.name=地牢石砖(坚不可摧)
+tile.runicBrick.brickMossy.name=地牢苔石砖(坚不可摧)
+tile.runicBrick.brickCracked.name=地牢裂石砖(坚不可摧)
+tile.runicBrick.brickRunePlain.name=符文地牢石砖(坚不可摧)
+tile.runicBrick.brickRuneMossy.name=符文地牢苔石砖(坚不可摧)
+tile.runicBrick.brickRuneCracked.name=符文地牢裂石砖(坚不可摧)
 
-tile.survivalBrick.brickPlain.name=地牢石砖
-tile.survivalBrick.brickMossy.name=地牢苔石砖
-tile.survivalBrick.brickCracked.name=地牢裂石砖
-tile.survivalBrick.brickRunePlain.name=符文地牢石砖
-tile.survivalBrick.brickRuneMossy.name=符文地牢苔石砖
-tile.survivalBrick.brickRuneCracked.name=符文地牢裂石砖
-tile.survivalruniclamp.name=灯柱
+tile.survivalRunicBrick.brickPlain.name=地牢石砖
+tile.survivalRunicBrick.brickMossy.name=地牢苔石砖
+tile.survivalRunicBrick.brickCracked.name=地牢裂石砖
+tile.survivalRunicBrick.brickRunePlain.name=符文地牢石砖
+tile.survivalRunicBrick.brickRuneMossy.name=符文地牢苔石砖
+tile.survivalRunicBrick.brickRuneCracked.name=符文地牢裂石砖
+tile.survivalRunicLamp.name=灯柱
 tile.survivalRunicPillar.name=符文支柱
 
-tile.runiclamp.name=灯柱(坚不可摧)
-tile.keystone.name=地牢钥匙孔
-tile.runicCircle.name=神秘的符文
-tile.runicCircleSmall.name=Mysterious Runes
-tile.runicCircleLarge.name=Mysterious Runes
+tile.runicLamp.name=灯柱(坚不可摧)
+tile.runicKeyhole.name=地牢钥匙孔
+tile.runicCircle.name=神秘符文
+tile.runicCircleSmall.name=神秘符文
+tile.runicCircleLarge.name=神秘符文
 tile.runicPortal.name=符文地牢入口
 tile.runicPillar.name=符文支柱(坚不可摧)
 tile.survivalrunicPillar.name=符文支柱
@@ -72,12 +72,12 @@ achievement.useKey=开启大门前进!
 achievement.useKey.desc=使用地牢钥匙
 
 achievement.defeatGuardian=深处的守护者！
-achievement.defeatGuardian.desc=Defeat a Dungeon Guardian
+achievement.defeatGuardian.desc=击败一个地牢守护者!
 
-achievement.demonicDungeons=Fire and Brimstone
-achievement.demonicDungeons.desc=Take a trip into the Demonic Dungeons
+achievement.demonicDungeons=炼狱之火
+achievement.demonicDungeons.desc=到恶魔地牢走一遭!
 
-runicdungeons.unableToOpen=You cannot pass this way.
+runicdungeons.unableToOpen=此路不通.
 
 itemGroup.runicdungeons=符文地牢
 
@@ -89,7 +89,7 @@ amulet.descRegen=愈合比较缓慢,但是很有效
 amulet.descResist=瞧我的厚实的护甲!
 amulet.descFResist=这个玩家正在着火!
 amulet.descBreath=谁需要鳃?
-graamulet.descNVision=Go-Go-Go!夜视!
+amulet.descNVision=Go-Go-Go!夜视!
 
 entity.Guardian.name=地牢守护者
 
@@ -99,29 +99,29 @@ tile.survivalDemonicBrick.brickPlain.name=恶魔石砖
 tile.survivalDemonicBrick.brickRunic.name=符文恶魔石砖
 
 tile.chaoticSand.name=混沌沙子
-tile.witherGlass.name=符文玻璃(WitherBoss-Proof)
-tile.compressedObsidian.name=Compressed Obsidian
-item.magicstaff.name=Magical Staff
-tile.runeSpawner.name=Guardian Spawner
+tile.witherRunicGlass.name=符文玻璃(凋零免疫)
+tile.compressedObsidian.name=压缩黑曜石
+item.magicstaff.name=魔法权杖
+tile.runeSpawner.name=守护者刷怪笼
 
-tile.witherBrick.witherBrickPlain.name=Dungeon Bricks (WitherBoss-Proof)
-tile.witherBrick.witherBrickMossy.name=Mossy Dungeon Bricks (WitherBoss-Proof)
-tile.witherBrick.witherBrickCracked.name=Cracked Dungeon Bricks (WitherBoss-Proof)
-tile.witherBrick.witherBrickRunePlain.name=Runic Dungeon Bricks (WitherBoss-Proof)
-tile.witherBrick.witherBrickRuneMossy.name=Mossy Runic Dungeon Bricks (WitherBoss-Proof)
-tile.witherBrick.witherBrickRuneCracked.name=Cracked Runic Dungeon Bricks (WitherBoss-Proof)
+tile.witherRunicBrick.witherBrickPlain.name=地牢石砖(凋零免疫)
+tile.witherRunicBrick.witherBrickMossy.name=苔藓 (凋零免疫)
+tile.witherRunicBrick.witherBrickCracked.name=裂纹地牢石砖(凋零免疫)
+tile.witherRunicBrick.witherBrickRunePlain.name=符文地牢石砖(凋零免疫)
+tile.witherRunicBrick.witherBrickRuneMossy.name=苔藓符文地牢石砖(凋零免疫)
+tile.witherRunicBrick.witherBrickRuneCracked.name=裂纹符文地牢石砖(凋零免疫)
 
-tile.ancientBookshelf.name=Ancient Bookshelf
-tile.rottingSlab.name=Rotting Slab
+tile.ancientBookshelf.name=古旧的书架
+tile.rottingSlab.name=腐朽木板
 
-item.runicSteel.name=Runic Steel Ingot
-item.runicSteelSword.name=Runic Steel Sword
-item.runicSteelPickaxe.name=Runic Steel Pickaxe
-item.runicSteelAxe.name=Runic Steel Hatchet
-item.runicSteelShovel.name=Runic Steel Spade
-item.runicSteelHoe.name=Runic Steel Hoe
+item.runicSteel.name=符文钢锭
+item.runicSteelSword.name=符文钢剑
+item.runicSteelPickaxe.name=符文钢镐
+item.runicSteelAxe.name=符文钢斧
+item.runicSteelShovel.name=符文钢铲
+item.runicSteelHoe.name=符文钢锄
 
-item.airCrystal.name=Air Crystal
-item.earthCrystal.name=Earth Crystal
-item.fireCrystal.name=Fire Crystal
-item.waterCrystal.name=Water Crystal
+item.airCrystal.name=风之结晶
+item.earthCrystal.name=土之结晶
+item.fireCrystal.name=火之结晶
+item.waterCrystal.name=水之结晶
